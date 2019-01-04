@@ -1,7 +1,7 @@
 ---
 title: "Deploying a Hugo site with Netlify"
 date: 2019-01-03T20:48:57-06:00
-draft: true
+draft: false
 toc: false
 images:
 tags: 
