@@ -1,7 +1,7 @@
 ---
 title: "Hello World"
 date: 2019-01-03T16:31:16-06:00
-draft: true
+draft: false
 toc: false
 images:
 tags: 
