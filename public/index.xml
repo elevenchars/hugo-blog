@@ -2,14 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Will Ingarfield</title>
-    <link>https://example.com/</link>
+    <link>https://sad-williams-6cde72.netlify.com/</link>
     <description>Recent content on Will Ingarfield</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Thu, 03 Jan 2019 20:48:57 -0600</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sad-williams-6cde72.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deploying a Hugo site with Netlify</title>
+      <link>https://sad-williams-6cde72.netlify.com/posts/hugo-netlify/</link>
+      <pubDate>Thu, 03 Jan 2019 20:48:57 -0600</pubDate>
+      
+      <guid>https://sad-williams-6cde72.netlify.com/posts/hugo-netlify/</guid>
+      <description>I figured it might be useful to post some quick notes on how I set this site up. When I was looking for tools to use, I wanted a low maintenance static site generator that did not require a lot of web design knowledge. I&amp;rsquo;m a big fan of how Hugo works so I decided to give it a shot with Netlify.
+Creating your first site For this I pretty much followed the Hugo quickstart exactly.</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://sad-williams-6cde72.netlify.com/posts/hello-world/</link>
+      <pubDate>Thu, 03 Jan 2019 16:31:16 -0600</pubDate>
+      
+      <guid>https://sad-williams-6cde72.netlify.com/posts/hello-world/</guid>
+      <description>This is my first post. 🎉 I created this site using Hugo and I am hosting using Netlify.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://sad-williams-6cde72.netlify.com/about/</link>
+      <pubDate>Thu, 03 Jan 2019 16:23:54 -0600</pubDate>
+      
+      <guid>https://sad-williams-6cde72.netlify.com/about/</guid>
+      <description>My name is Will Ingarfield. I am a student at UT Dallas pursuing a major in Computer Science and a minor in Statistics. I am interested in data science, competitive programming, procedural generation, cryptography, and cybersecurity. I plan to use this website as a place to post small writeups on projects I am working on.
+I am actively looking for internships for Summer 2019. Feel free to send me a message on LinkedIn or email me.</description>
+    </item>
     
   </channel>
 </rss>

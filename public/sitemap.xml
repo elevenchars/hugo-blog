@@ -3,17 +3,45 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://sad-williams-6cde72.netlify.com/posts/hugo-netlify/</loc>
+    <lastmod>2019-01-03T20:48:57-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sad-williams-6cde72.netlify.com/posts/hello-world/</loc>
+    <lastmod>2019-01-03T16:31:16-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sad-williams-6cde72.netlify.com/about/</loc>
+    <lastmod>2019-01-03T16:23:54-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sad-williams-6cde72.netlify.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://sad-williams-6cde72.netlify.com/posts/</loc>
+    <lastmod>2019-01-03T20:48:57-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://sad-williams-6cde72.netlify.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sad-williams-6cde72.netlify.com/tags/web/</loc>
+    <lastmod>2019-01-03T20:48:57-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sad-williams-6cde72.netlify.com/</loc>
+    <lastmod>2019-01-03T20:48:57-06:00</lastmod>
     <priority>0</priority>
   </url>
   
